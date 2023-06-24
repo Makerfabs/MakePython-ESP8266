@@ -21,7 +21,7 @@ MakePython ESP8266 is preloaded with MicroPython, simple and suitable for beginn
 
 - You can get one from: [Makepython-ESP8266](https://www.makerfabs.com/makepython-esp8266.html)
 
-- Hardware and detailed instructions please visit Wiki page:  [Makepython-ESP8266 Wiki](https://www.makerfabs.com/wiki/index.php?title=MakePython_ESP8266)
+- Hardware and detailed instructions please visit Wiki page:  [Makepython-ESP8266 Wiki](https://wiki.makerfabs.com/MaESP_ESP8266_OLED.html)
 
 # Related Test
 
