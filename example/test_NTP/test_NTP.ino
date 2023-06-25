@@ -16,7 +16,7 @@ WiFiUDP udp;
 NTPClient timeClient(udp, ntpServerName, timeZone * 3600, 60000);
 // Define SSD1306 screen
 // SSD1306
-#define SDA 4ta
+#define SDA 4
 #define SCL 5
 #define SCREEN_WIDTH 128 // OLED display width, in pixels
 #define SCREEN_HEIGHT 64 // OLED display height, in pixels
